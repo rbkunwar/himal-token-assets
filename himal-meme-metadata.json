@@ -1,0 +1,16 @@
+{
+  "name": "Himal",
+  "symbol": "HML",
+  "description": "Himal (HML) is a community meme coin for fun. It has no utility, no roadmap promises and no guaranteed value. It may become worth nothing. Practice version on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/rbkunwar/himal-token-assets/main/images.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rbkunwar/himal-token-assets/main/images.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  },
+  "attributes": []
+}
