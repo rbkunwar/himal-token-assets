@@ -1,0 +1,16 @@
+{
+  "name": "Himal",
+  "symbol": "HML",
+  "description": "Himal (HML) is the planned utility token of the Himal research tools: backtesting, paper trading and market data. This is a practice token on Solana devnet. It has no value and is not an offer to sell anything.",
+  "image": "https://raw.githubusercontent.com/rbkunwar/himal-token-assets/main/images.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rbkunwar/himal-token-assets/main/images.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  },
+  "attributes": []
+}
